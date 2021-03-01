@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Demo.Services.Models.Library
+namespace Demo.Services.Library
 {
     /// <summary>
     /// Represents a type of request an <see cref="Account"/> can make.

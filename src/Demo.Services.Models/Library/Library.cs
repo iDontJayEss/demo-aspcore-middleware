@@ -1,4 +1,4 @@
-﻿namespace Demo.Services.Models.Library
+﻿namespace Demo.Services.Library
 {
     /// <summary>
     /// Represents the physical location of a library.

@@ -1,4 +1,4 @@
-﻿namespace Demo.Services.Models.Library
+﻿namespace Demo.Services.Library
 {
     /// <summary>
     /// Represents a librarian; an employee of a <see cref="Library"/>.

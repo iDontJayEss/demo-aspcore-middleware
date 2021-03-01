@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Demo.Services.Models.Library
+namespace Demo.Services.Library
 {
     /// <summary>
     /// Represents a user as a member of a library.

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Demo.Services.Models.Library
+namespace Demo.Services.Library
 {
     /// <summary>
     /// <inheritdoc cref="IRequest"/>

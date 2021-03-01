@@ -1,4 +1,4 @@
-﻿namespace Demo.Services.Models
+﻿namespace Demo.Services
 {
     /// <summary>
     /// Base type for all resources.
